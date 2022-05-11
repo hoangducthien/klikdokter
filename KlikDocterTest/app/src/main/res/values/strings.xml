@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">KlikDocterTest</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="home_welcome">"Welcome %1$s"</string>
+    <string name="network_error">Network error, pls check your network and try again</string>
+    <string name="something_went_wrong">Something went wrong, pls try again later</string>
+    <string name="register_success">Register successful, pls login</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="password_too_short">Password need at least %1$d characters</string>
+    <string name="login_successful">Login successful</string>
+    <string name="search_by_sku">Search by sku</string>
+    <string name="sku">sku</string>
+    <string name="product_name">product name</string>
+    <string name="action">action</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delte">Do you really want to delete this product</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="unit">Unit</string>
+    <string name="status">Status</string>
+    <string name="add_product">Add Product</string>
+    <string name="update_product">Update Product</string>
+    <string name="udpate">Update</string>
+    <string name="add">Add</string>
+</resources>
